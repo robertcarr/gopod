@@ -1,0 +1,22 @@
+{
+  "name": "gopod",
+  "version": "1.0.0",
+  "description": "My stunning Nuxt.js project",
+  "author": "Robert Carr",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "nuxt-amplify": "^1.0.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
