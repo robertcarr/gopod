@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gopod-dev-82354-authRole",
+      "UnauthRoleArn": "arn:aws:iam::360136962554:role/amplify-gopod-dev-82354-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::360136962554:role/amplify-gopod-dev-82354-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-gopod-dev-82354-deployment",
+      "UnauthRoleName": "amplify-gopod-dev-82354-unauthRole",
+      "StackName": "amplify-gopod-dev-82354",
+      "StackId": "arn:aws:cloudformation:us-west-2:360136962554:stack/amplify-gopod-dev-82354/ec1cd500-2914-11ec-89af-064a2aad87df",
+      "AmplifyAppId": "d2wd0scj61nf6s"
+    }
+  }
+}

@@ -82,11 +82,16 @@
 <script>
 import Logo from '~/components/Logo.vue'
 import VuetifyLogo from '~/components/VuetifyLogo.vue'
+import Amplify, * as AmplifyModules from 'aws-amplify';
+import { AmplifyPlugin } from 'aws-amplify-vue';
+import aws_exports from './aws-exports';
+Amplify.configure(aws_exports)
 
 export default {
   components: {
     Logo,
-    VuetifyLogo
+    VuetifyLogo,
+
   }
 }
 </script>
